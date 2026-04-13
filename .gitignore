@@ -1,0 +1,5 @@
+.venv
+.temp
+
+model/.venv
+model/.temp
