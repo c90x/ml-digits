@@ -38,7 +38,7 @@ ml-digits/
 ## Stack
 
 - **PyTorch** for model training and evaluation.
-- **Pillow** and NumPy for image preprocessing and dataset transformations.
+- **Pillow** and **NumPy** for image preprocessing and dataset transformations.
 - **TensorBoard** for training metrics.
 - *ONNX* and *ONNX Runtime* for model export and validation.
 - **SvelteKit**, **Tailwind CSS**, and *ONNX Runtime Web* for the browser demo.
