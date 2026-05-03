@@ -1,0 +1,167 @@
+[
+	{
+		"id": "10_final_model_final",
+		"name": "Complex CNN + Dataset Transformations",
+		"url": "model/10_final_model/model_final.onnx"
+	},
+	{
+		"id": "10_final_model_best",
+		"name": "Best CNN Model",
+		"url": "model/10_final_model/model_best.onnx"
+	},
+	{
+		"id": "05_convolution_configs_adamw_conv8",
+		"name": "CNN (conv8)",
+		"url": "model/05_convolution_configs_adamw/model_conv8.onnx"
+	},
+	{
+		"id": "05_convolution_configs_adamw_conv16",
+		"name": "CNN (conv16)",
+		"url": "model/05_convolution_configs_adamw/model_conv16.onnx"
+	},
+	{
+		"id": "05_convolution_configs_adamw_conv16_pool",
+		"name": "CNN (conv16 pool)",
+		"url": "model/05_convolution_configs_adamw/model_conv16_pool.onnx"
+	},
+	{
+		"id": "05_convolution_configs_adamw_conv16_fc64",
+		"name": "CNN (conv16 fc64)",
+		"url": "model/05_convolution_configs_adamw/model_conv16_fc64.onnx"
+	},
+	{
+		"id": "05_convolution_configs_adamw_conv16_32",
+		"name": "CNN (conv16 32)",
+		"url": "model/05_convolution_configs_adamw/model_conv16_32.onnx"
+	},
+	{
+		"id": "05_convolution_configs_adamw_conv16_32_pool",
+		"name": "CNN (conv16 32 pool)",
+		"url": "model/05_convolution_configs_adamw/model_conv16_32_pool.onnx"
+	},
+	{
+		"id": "05_convolution_configs_adamw_conv16_32_fc128",
+		"name": "CNN (conv16 32 fc128)",
+		"url": "model/05_convolution_configs_adamw/model_conv16_32_fc128.onnx"
+	},
+	{
+		"id": "05_convolution_configs_adamw_conv16_32_fc128_drop",
+		"name": "CNN (conv16 32 fc128 drop)",
+		"url": "model/05_convolution_configs_adamw/model_conv16_32_fc128_drop.onnx"
+	},
+	{
+		"id": "05_convolution_configs_adamw_conv32_64_fc128",
+		"name": "CNN (conv32 64 fc128)",
+		"url": "model/05_convolution_configs_adamw/model_conv32_64_fc128.onnx"
+	},
+	{
+		"id": "05_convolution_configs_adamw_conv8_16",
+		"name": "CNN (conv8 16)",
+		"url": "model/05_convolution_configs_adamw/model_conv8_16.onnx"
+	},
+	{
+		"id": "05_convolution_configs_adamw_conv8_16_pool",
+		"name": "CNN (conv8 16 pool)",
+		"url": "model/05_convolution_configs_adamw/model_conv8_16_pool.onnx"
+	},
+	{
+		"id": "04_logistic_regression_optimizers_adam",
+		"name": "Log. Reg. Model (Adam, lr=1e-3)",
+		"url": "model/04_logistic_regression_optimizers/model_epoch50-optimizer_adam-lr_1e-03.onnx"
+	},
+	{
+		"id": "04_logistic_regression_optimizers_adamw",
+		"name": "Log. Reg. Model (AdamW, lr=1e-3)",
+		"url": "model/04_logistic_regression_optimizers/model_epoch50-optimizer_adamw-lr_1e-03.onnx"
+	},
+	{
+		"id": "04_logistic_regression_optimizers_rmsprop",
+		"name": "Log. Reg. Model (RMSprop, lr=1e-3)",
+		"url": "model/04_logistic_regression_optimizers/model_epoch50-optimizer_rmsprop-lr_1e-03.onnx"
+	},
+	{
+		"id": "04_logistic_regression_optimizers_sgd",
+		"name": "Log. Reg. Model (SGD, lr=1e-3)",
+		"url": "model/04_logistic_regression_optimizers/model_epoch50-optimizer_sgd-lr_1e-03.onnx"
+	},
+	{
+		"id": "04_logistic_regression_optimizers_sgd_momentum",
+		"name": "Log. Reg. Model (SGD momentum, lr=1e-3)",
+		"url": "model/04_logistic_regression_optimizers/model_epoch50-optimizer_sgd_momentum-lr_1e-03.onnx"
+	},
+	{
+		"id": "03_layers_relu_l6",
+		"name": "ReLU Model (l6)",
+		"url": "model/03_layers_relu/model_epoch50-l6.onnx"
+	},
+	{
+		"id": "03_layers_relu_l6_6",
+		"name": "ReLU Model (l6 6)",
+		"url": "model/03_layers_relu/model_epoch50-l6_6.onnx"
+	},
+	{
+		"id": "03_layers_relu_l6_6_6",
+		"name": "ReLU Model (l6 6 6)",
+		"url": "model/03_layers_relu/model_epoch50-l6_6_6.onnx"
+	},
+	{
+		"id": "03_layers_relu_l6_6_6_6",
+		"name": "ReLU Model (l6 6 6 6)",
+		"url": "model/03_layers_relu/model_epoch50-l6_6_6_6.onnx"
+	},
+	{
+		"id": "03_layers_relu_l6_6_6_6_6",
+		"name": "ReLU Model (l6 6 6 6 6)",
+		"url": "model/03_layers_relu/model_epoch50-l6_6_6_6_6.onnx"
+	},
+	{
+		"id": "03_layers_relu_l8_6_3_6",
+		"name": "ReLU Model (l8 6 3 6)",
+		"url": "model/03_layers_relu/model_epoch50-l8_6_3_6.onnx"
+	},
+	{
+		"id": "03_layers_relu_l128",
+		"name": "ReLU Model (l128)",
+		"url": "model/03_layers_relu/model_epoch50-l128.onnx"
+	},
+	{
+		"id": "02_logistic_regression_lr_1e_minus_05",
+		"name": "Log. Reg. Model (lr=1e-5)",
+		"url": "model/02_logistic_regression_lr/model_epoch50-lr_1e-05.onnx"
+	},
+	{
+		"id": "02_logistic_regression_lr_1e_minus_04",
+		"name": "Log. Reg. Model (lr=1e-4)",
+		"url": "model/02_logistic_regression_lr/model_epoch50-lr_1e-04.onnx"
+	},
+	{
+		"id": "02_logistic_regression_lr_1e_minus_03",
+		"name": "Log. Reg. Model (lr=1e-3)",
+		"url": "model/02_logistic_regression_lr/model_epoch50-lr_1e-03.onnx"
+	},
+	{
+		"id": "02_logistic_regression_lr_1e_minus_02",
+		"name": "Log. Reg. Model (lr=1e-2)",
+		"url": "model/02_logistic_regression_lr/model_epoch50-lr_1e-02.onnx"
+	},
+	{
+		"id": "02_logistic_regression_lr_1e_minus_01",
+		"name": "Log. Reg. Model (lr=1e-1)",
+		"url": "model/02_logistic_regression_lr/model_epoch50-lr_1e-01.onnx"
+	},
+	{
+		"id": "02_logistic_regression_lr_1e_plus_00",
+		"name": "Log. Reg. Model (lr=1e0)",
+		"url": "model/02_logistic_regression_lr/model_epoch50-lr_1e+00.onnx"
+	},
+	{
+		"id": "02_logistic_regression_lr_1e_plus_01",
+		"name": "Log. Reg. Model (lr=1e1)",
+		"url": "model/02_logistic_regression_lr/model_epoch50-lr_1e+01.onnx"
+	},
+	{
+		"id": "digit_classifier",
+		"name": "Baseline Digit Classifier",
+		"url": "model/digit_classifier.onnx"
+	}
+]

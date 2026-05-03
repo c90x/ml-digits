@@ -1,0 +1,9 @@
+.venv
+.temp
+.torch
+
+model/.venv
+model/.temp
+
+**/__pycache__
+
