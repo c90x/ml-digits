@@ -28,7 +28,7 @@ ml-digits/
 │  ├─ ml_digits/           # Shared dataset, path, environment, and utility code
 │  ├─ tools/
 │  │  ├─ onnx-exporter.py  # Export trained PyTorch weights to ONNX
-│  ├─ nb.ipynb             # Exploration / testing notebook
+│  ├─ nb.ipynb             # Exploration / testing notebook (not primary code!)
 │  ├─ pyproject.toml       # Python project configuration
 │  ├─ uv.lock              # Python dependency lockfile
 ├─ web/
